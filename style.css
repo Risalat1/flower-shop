@@ -9,7 +9,6 @@ header{
 display: flex;
 align-items: center;
 justify-content: space-between;
-gap: 97px;
 font-family: 'Open Sans', sans-serif;
 }
 .header-text{
@@ -42,5 +41,4 @@ background: #E55473;
 }
 .header-img {
     width: 480px;
-    padding: 50px 240px 0px 1045px;
 }
