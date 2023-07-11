@@ -21,13 +21,13 @@ header {
 
 .header-title {
     font-size: 80px;
-    font-weight: 800;
+    font-weight: 1600;
 }
 
 .header-description {
     color: rgba(39, 39, 39, 0.60);
     font-size: 20px;
-    font-weight: 400;
+    font-weight: 800;
     line-height: 30px;
 }
 
@@ -62,7 +62,7 @@ main{
 .description {
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
-    font-weight: 600;
+    font-weight: 1000;
     text-align: center;
     padding-top: 24px;
 }
@@ -112,7 +112,7 @@ background: rgba(39, 39, 39, 0.05);
 }
 .feature-img{
     gap: 100px;
-    padding: 60px 115px 0px 200px;
+    padding: 60px 200px 0px 200px;
 }
 .feature-text{
     padding: 0px 150px 87px 175px;
@@ -132,7 +132,22 @@ justify-content: space-around;
     text-align: center;
 }
 .p-text{
-    color: rgba(39, 39, 39, 0.60);
+    color: rgba(218, 197, 200, 0.852);
+    font-weight: 800;
+}
+.extra-section{
+   display: flex;
+   justify-content: space-around;
+    text-align: center;
+    margin: 100px 200px 100px 200px;
+    border: 5px palevioletred solid;
+    border-radius: 8px;
+}
+.offers{
+    align-items: center;
+    text-align: center;
+    padding-top: 180px ;
+    padding-bottom: 40;
 }
 .section4{
     text-align: center;
